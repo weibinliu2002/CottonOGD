@@ -1,0 +1,23 @@
+{{ define "main" }}
+  <!-- /Banner -->
+  
+  {{ with .Params.banner }}
+    <section class="section pt-10" style="padding-top: 50px; padding-bottom: 0px;">
+      {{ partial `bg-image.html` (dict `Src` "01.jpg") | safeHTMLAttr }}
+      <div class="container">
+        <div class="row justify-center">
+          <div class="lg:col-10 mb-7 text-center">
+            <h1 class="mb-1">
+              {{ .title | markdownify }}
+            </h1>
+            <p class="mb-1">
+              {{ .content | markdownify }}
+            </p>
+            {{ partial "search-modal.html" (dict "Context" . "Class" "your-custom-class") }}
+            {{ partial "search-page.html" (dict "Context" . "Class" "your-custom-class") }}
+          </div>
+        </div>
+      </div>
+    </section>
+  {{ end }}
+{{ end }}

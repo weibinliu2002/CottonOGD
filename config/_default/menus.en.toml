@@ -1,0 +1,46 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = " "
+pageRef = "/"
+weight = 1
+[[main]]
+name = "FAS"
+pageRef = "/fas"
+weight = 2
+
+[[main]]
+name = "GENES"
+pageRef = "/genes"
+weight = 3
+
+[[main]]
+name = "FUNCTION"
+pageRef = "/homologous"
+weight = 4
+
+[[main]]
+weight = 5
+name = "HELP"
+
+[[main]]
+parent = "HELP"
+name = "Contact"
+pageRef = "/contact"
+
+[[main]]
+parent = "HELP"
+name = "Authors"
+pageRef = "/authors"
+
+[[main]]
+parent = "HELP"
+name = "Categories"
+pageRef = "/categories"
+
+[[main]]
+parent = "HELP"
+name = "404 Page"
+pageRef = "/404"
+
