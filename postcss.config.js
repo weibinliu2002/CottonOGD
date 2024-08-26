@@ -1,4 +1,4 @@
-npm install NNNmodule --save-dev
+
 
 NNNmodule.exports = {
   plugins: {
