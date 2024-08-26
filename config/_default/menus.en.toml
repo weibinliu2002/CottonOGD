@@ -6,8 +6,8 @@ name = " "
 pageRef = "/"
 weight = 1
 [[main]]
-name = "FAS"
-pageRef = "/fas"
+name = "Gene Family"
+pageRef = "/genefamily"
 weight = 2
 
 [[main]]

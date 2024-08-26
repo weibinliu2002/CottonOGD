@@ -9,9 +9,9 @@ tags: ["OG0000000"]
 draft: false
 ---
 | Analysis Name |   |   | Contains the number of gene |
-| :--: | :--: | :--: | :--: |
-| [Gossypium australe (G2) genome CRI_v1.1](/Group/OG0000000/GossypiumaustraleG2genomeCRIv11) |   |   | 980 |
-| [Gossypium herbaceum (A1) 'Wagad' genome USDA_v1](/Group/OG0000000/GossypiumherbaceumA1WagadgenomeUSDAv1) |   |   | 873 |
+| :-- | :--: | :--: | :--: |
+| [Gossypium australe (G2) genome CRI_v1.1](/Group/OG0000000/GossypiumaustraleG2genomeCRIv11) |   |   | [980](/Group/OG0000000/GossypiumaustraleG2genomeCRIv11) |
+| [Gossypium herbaceum (A1) 'Wagad' genome USDA_v1](/Group/OG0000000/GossypiumherbaceumA1WagadgenomeUSDAv1) |   |   | [873](/Group/OG0000000/GossypiumaustraleG2genomeCRIv11)  |
 | [Gossypium hirsutum (AD1) 'YM11' genome XAAS_v1](/Group/OG0000000/GossypiumhirsutumAD1YM11genomeXAASv1) |   |   | 706 |
 | [Gossypium herbaceum (A1) 'Mutema' genome WHU_v1](/Group/OG0000000/GossypiumherbaceumA1MutemagenomeWHUv1) |   |   | 611 |
 | [Gossypium hirsutum (AD1) 'B713' genome NSF_v1](/Group/OG0000000/GossypiumhirsutumAD1B713genomeNSFv1) |   |   | 590 |
