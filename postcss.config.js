@@ -1,12 +1,11 @@
 
 
-NNNmodule.exports = {
-  plugins: {
-    tailwindcss: {},
-    autoprefixer: {},
-
-  },
-};
+#NNNmodule.exports = {
+ # plugins: {
+ #   tailwindcss: {},
+#    autoprefixer: {},
+ # },
+#};
 module.exports = {
   plugins: [
     require('autoprefixer')
