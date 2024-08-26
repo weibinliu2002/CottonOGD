@@ -7,9 +7,8 @@ image: "/images.png"
 categories: ["polymerases"]
 tags: ["OG0000000"]
 ---
-## Overview
-### Analysis Name: Gossypium anomalum (B1) genome HAU_v1
-## Gano_01G006880.1
+## Species Name: Gossypium anomalum (B1) genome HAU_v1
+##### Gene ID:Gano_01G006880.1
 {{< accordion "CDS Sequence" >}}
 - 
 {{< /accordion >}}
